@@ -23,6 +23,7 @@ I work mostly with Laravel on the web side, and Python/OpenCV/MediaPipe for comp
 | **Dream Order** | Point-of-sale system for cashiers, with a single-screen POS terminal, product management, a Kanban-style order queue (Pending → In Progress → Completed), and a sales analytics dashboard. | Laravel · MySQL |
 | **Hand Gesture Hologram Interface** | Real-time hand-tracking application that spawns and manipulates holographic visual effects — grab, pinch, and snap gestures trigger different interactions. | Python · OpenCV · MediaPipe |
 | **Automated Trash Guard** | IoT hardware project for automated waste detection and handling. | Arduino · Microcontrollers |
+| **TemanLes** | Marketplace for private tutors, with escrow-based payments (Tripay) and two-way confirmation — funds are held until both student and tutor confirm a session took place — plus an interactive map (Leaflet.js) for setting in-person meeting points. | Laravel · MySQL · Tailwind CSS · Alpine.js |
 
 *(Repo links will be added here as each project is published.)*
 
@@ -37,6 +38,7 @@ I work mostly with Laravel on the web side, and Python/OpenCV/MediaPipe for comp
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=white)
 
 **Data**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -53,8 +55,8 @@ I work mostly with Laravel on the web side, and Python/OpenCV/MediaPipe for comp
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=haziqKaisar&show_icons=true&theme=default&hide_border=true&hide_title=true" height="150" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haziqKaisar&layout=compact&theme=default&hide_border=true&hide_title=true" height="150" alt="Top languages" />
+<img src="https://github-readme-stats-inky-sigma-38.vercel.app/api?username=haziqKaisar&show_icons=true&theme=default&hide_border=true&hide_title=true" height="150" alt="GitHub stats" />
+<img src="https://github-readme-stats-inky-sigma-38.vercel.app/api/top-langs/?username=haziqKaisar&layout=compact&theme=default&hide_border=true&hide_title=true" height="150" alt="Top languages" />
 
 ---
 
