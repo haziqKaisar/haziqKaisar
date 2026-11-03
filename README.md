@@ -4,11 +4,11 @@
 
 I work mostly with Laravel on the web side, and Python/OpenCV/MediaPipe for computer vision and gesture-based interaction. Recently I've also been building small IoT hardware projects and experimenting with AI-assisted development workflows.
 
-📫 [haziqkaisar56@gmail.com](mailto:haziqkaisar56@gmail.com)
+📫 [haziqkaisar56@gmail.com](mailto:haziqkaisar56@gmail.com) · [LinkedIn](https://www.linkedin.com/in/haziq-kaisar-297339431/)
 
 <!--
   README maintenance notes:
-  - Add LinkedIn / portfolio links to the "Contact" section once available
+  - Add a portfolio link to the "Contact" section once available
   - Update the project table below whenever a repo is public or its status changes
   - Badge colors follow each technology's official brand color (shields.io)
 -->
@@ -63,4 +63,5 @@ I work mostly with Laravel on the web side, and Python/OpenCV/MediaPipe for comp
 ## Contact
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:haziqkaisar56@gmail.com)
-<!-- Add LinkedIn / Portfolio badges here once available -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/haziq-kaisar-297339431/)
+<!-- Add Portfolio badge here once available -->
